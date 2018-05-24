@@ -4,3 +4,7 @@ class App < Sinatra::Base
 
 
 end
+
+def get
+  puts.get('"Hello, World!"/').code == 200
+end

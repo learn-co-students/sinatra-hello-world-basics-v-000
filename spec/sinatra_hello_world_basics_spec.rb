@@ -1,4 +1,4 @@
-describe "GET '/'" do
+puts describe "GET '/'" do
   before do
     get '/'
   end
