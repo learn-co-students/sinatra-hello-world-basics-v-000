@@ -1,6 +1,7 @@
 # Sinatra Hello World Basics
 
 ## Objectives
+already locally cloned.
 
 1. Create a basic Sinatra application.
 2. Write a `get` method.
