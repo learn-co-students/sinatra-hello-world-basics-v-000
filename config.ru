@@ -1,3 +1,3 @@
 require './config/environment'
-
-run App
+require_relative './app.rb'
+run Application
